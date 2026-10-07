@@ -1,0 +1,90 @@
+[
+  {
+    "id": "seed-0001",
+    "vehicle": "Scooter 125",
+    "title": "Engine oil change and filter clean",
+    "category": "Service",
+    "date": "2026-07-12",
+    "cost": 650,
+    "odometer": 8420,
+    "notes": "Fully synthetic oil, air filter cleaned",
+    "createdAt": "2026-07-12T10:00:00.000Z"
+  },
+  {
+    "id": "seed-0002",
+    "vehicle": "Scooter 125",
+    "title": "Rear tyre replacement",
+    "category": "Repair",
+    "date": "2026-08-03",
+    "cost": 2350,
+    "odometer": 9100,
+    "notes": "Tubeless, balanced and fitted",
+    "createdAt": "2026-08-03T10:00:00.000Z"
+  },
+  {
+    "id": "seed-0003",
+    "vehicle": "Motorcycle 400",
+    "title": "Riding jacket with armour",
+    "category": "Gear",
+    "date": "2026-08-28",
+    "cost": 5499,
+    "odometer": null,
+    "notes": "CE level 1 shoulder and elbow protectors",
+    "createdAt": "2026-08-28T10:00:00.000Z"
+  },
+  {
+    "id": "seed-0004",
+    "vehicle": "Motorcycle 400",
+    "title": "Aftermarket handlebar and grips",
+    "category": "Modification",
+    "date": "2026-09-14",
+    "cost": 3200,
+    "odometer": 1850,
+    "notes": "Taller bar for comfort in city traffic",
+    "createdAt": "2026-09-14T10:00:00.000Z"
+  },
+  {
+    "id": "seed-0005",
+    "vehicle": "Scooter 125",
+    "title": "Full tank of petrol",
+    "category": "Fuel",
+    "date": "2026-09-30",
+    "cost": 520,
+    "odometer": 9650,
+    "notes": "",
+    "createdAt": "2026-09-30T10:00:00.000Z"
+  },
+  {
+    "id": "seed-0006",
+    "vehicle": "Motorcycle 400",
+    "title": "First free service",
+    "category": "Service",
+    "date": "2026-10-02",
+    "cost": 0,
+    "odometer": 2100,
+    "notes": "Dealer free service, oil topped up",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "342167f8-c66b-4012-bb38-f5c1822cc7ad",
+    "vehicle": "Ntorq",
+    "title": "Oil Change",
+    "category": "Service",
+    "date": "2026-10-07",
+    "cost": 500,
+    "odometer": 10000,
+    "notes": "Test entry",
+    "createdAt": "2026-10-07T02:25:13.680Z"
+  },
+  {
+    "id": "3aca40cc-b284-4dac-b5f8-568c1da8af7b",
+    "vehicle": "Ntorq",
+    "title": "Oil Change",
+    "category": "Service",
+    "date": "2026-10-07",
+    "cost": 500,
+    "odometer": 10000,
+    "notes": "Test form",
+    "createdAt": "2026-10-07T02:29:10.694Z"
+  }
+]
